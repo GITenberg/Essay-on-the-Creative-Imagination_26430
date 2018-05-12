@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31997
     wikipedia: http://en.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26430#Essay-on-the-Creative-Imagination
 gutenberg_issued: '2008-08-25'
 gutenberg_type: Text
 identifiers:
