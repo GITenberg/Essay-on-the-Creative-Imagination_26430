@@ -1,0 +1,39 @@
+_repo: Essay-on-the-Creative-Imagination_26430
+_version: 0.1.0
+alternative_title: Essai sur l'imagination créatrice. English
+contributor:
+  translator:
+    agent_name: Baron, Albert Heyem Nachmen
+    alias: Baron, Albert H. N.
+    birthdate: 1883
+    gutenberg_agent_id: '31998'
+    url: http://www.gutenberg.org/2009/agents/31998
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ribot, Th. (Théodule)
+    aliases:
+    - Ribot, Théodule Armand
+    - Ribot, Th. (Theodule)
+    birthdate: 1839
+    deathdate: 1916
+    gutenberg_agent_id: '31997'
+    url: http://www.gutenberg.org/2009/agents/31997
+    wikipedia: http://en.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
+description: ''
+gutenberg_issued: '2008-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation (Literary, artistic, etc.)'
+- !lcsh 'Imagination'
+- !lcc 'BF'
+title: Essay on the Creative Imagination
+url: http://www.gutenberg.org/ebooks/26430
